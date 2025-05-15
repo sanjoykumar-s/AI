@@ -54,3 +54,4 @@ def a_star_search(start, goal):
 
 
 a_star_search('S', 'G')
+
